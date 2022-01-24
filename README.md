@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abrham Asfaw</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 
-- 🌱 I’m currently learning **Angular js**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbrhamAsfaw](https://github.com/AbrhamAsfaw)
 
